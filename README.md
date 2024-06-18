@@ -20,17 +20,17 @@
 - Google Colab
 
 ## Algorithms:
-- [Linear Regression](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/Linear%20Regression)
-- [Logistic Regression](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/Logistic%20Regression)
-- [Gradient Descent](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/Gradient%20Descent)
-- [K-Means](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/K-Means)
-- [Naive Bayes](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/Naive%20Bayes)
-- [Support Vector Machines](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/Support%20Vector%20Machine)
-- [K-Nearest Neighbours](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/K-Nearest%20Neighbours)
-- [Bagging](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/Bagging)
-- [AdaBoost](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/AdaBoost)
-- [Gradient Boosting](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/Gradient%20Boosting)
-- [Principal Component Analysis](https://github.com/MisbahullahSheriff/ML-Algorithms-From-Scratch/tree/main/Principal%20Component%20Analysis)
+- [Linear Regression]()
+- [Logistic Regression]()
+- [Gradient Descent]()
+- [K-Means]()
+- [Naive Bayes]()
+- [Support Vector Machines]()
+- [K-Nearest Neighbours]()
+- [Bagging]()
+- [AdaBoost]()
+- [Gradient Boosting]()
+- [Principal Component Analysis]()
 
 ## Note:
 - Thank you for going through my work 😀
